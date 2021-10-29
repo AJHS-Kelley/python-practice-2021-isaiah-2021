@@ -5,7 +5,8 @@
 lives_remaining = 9000 #INTERGERS, any +/- WHOLE number and 0 
 forty_time = 4.21 # FLOATING POINT, any +/- number with a decimal
 death_cry = "I'm The Strongest In The Universe!"
-# Line 7 is a STRING ~ ~ collection of letters/numbers/other chars.
+# Line 7 is a STRING -- collection of letters/numbers/other chars.
 
 print(lives_remaining)
-
+print(forty_time)
+print(death_cry)
